@@ -1,0 +1,9 @@
+title: model
+x-stoplight:
+  id: wg2n8l68pic4y
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: w73pirm61l643
